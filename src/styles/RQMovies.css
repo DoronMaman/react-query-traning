@@ -1,0 +1,42 @@
+.style-input {
+  border-radius: 1rem;
+  width: 15rem;
+  height: 3rem;
+}
+.div-input {
+  display: inline-block;
+  width: 17rem;
+}
+.div-button {
+  color: #67c0e2;
+  border-radius: 1rem;
+  border: 1px solid;
+  width: 8rem;
+  height: 3rem;
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  top: -7px;
+  cursor: pointer;
+}
+input {
+  text-align: center;
+}
+
+::-webkit-input-placeholder {
+  text-align: center;
+}
+
+:-moz-placeholder {
+  text-align: center;
+}
+.label-button {
+  position: relative;
+  top: 0.5rem;
+}
+.div-add-movies{
+	position: relative;
+    left: 38rem;
+    top: 4rem;
+
+}

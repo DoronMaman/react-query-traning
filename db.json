@@ -1,0 +1,99 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Bright",
+      "date": "2017",
+      "styleClass": "blur_back bright_back",
+      "image": "https://movieplayer.net-cdn.it/t/images/2017/12/20/bright_jpg_191x283_crop_q85.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Tomb Raider",
+      "date": "2018",
+      "styleClass": "blur_back tomb_back",
+      "image": "https://mr.comingsoon.it/imgdb/locandine/235x336/53750.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Black Panther",
+      "date": "2018",
+      "styleClass": "blur_back ave_back",
+      "image": "https://mr.comingsoon.it/imgdb/locandine/235x336/53715.jpg"
+    },
+    {
+      "name": "SuperMan",
+      "date": "2012",
+      "styleClass": "blur_back super-man",
+      "image": "http://localhost:3000/static/media/superMan.f64764a324250fa0562c.jpg",
+      "id": 4
+    },
+    {
+      "name": "Test",
+      "date": "2022",
+      "styleClass": "blur_back_defualt defualt-movie",
+      "image": "http://localhost:3000/static/media/defualt-movie.fcb0857d63fd79ee4ac7.jpeg",
+      "id": 5
+    }
+ 
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Doron ",
+      "age": "25"
+    },
+    {
+      "id": 2,
+      "name": "Stasea",
+      "age": "40"
+    },
+    {
+      "id": 3,
+      "name": "Hagay",
+      "age": "39"
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "Doron",
+      "roleName": "Web Developer"
+    },
+    {
+      "id": 2,
+      "name": "Hagay",
+      "roleName": "Front End Developer"
+    },
+    {
+      "id": 3,
+      "name": "Moty",
+      "roleName": "Backend Developer"
+    },
+    {
+      "id": 4,
+      "name": "Stasea",
+      "roleName": "SQL Developer "
+    },
+    {
+      "id": 5,
+      "name": "Hanna",
+      "roleName": "HR"
+    },
+    {
+      "id": 6,
+      "name": "Maor",
+      "roleName": "Product Manager"
+    },
+    {
+      "id": 7,
+      "name": "Idan",
+      "roleName": "Project Developer"
+    },
+    {
+      "id": 8,
+      "name": "Hen",
+      "roleName": " Sales "
+    }
+  ]
+}
